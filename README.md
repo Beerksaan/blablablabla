@@ -1,10 +1,4 @@
-Les 1
-Voorbereiding Toets — Next.js Blok 2
-120 min lezen
-Voorbereiding Toets — Next.js Blok 2
-Stack: Next.js 16 · Prisma 7.4 · TypeScript
 
-Dit document helpt je voorbereiden op de toets. Per toetsdoel vind je een uitleg, codevoorbeelden en oefenvragen.
 
 Deel 1 — Kennis (12 doelen)
 1. Het verschil tussen client en server componenten
